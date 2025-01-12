@@ -1,0 +1,40 @@
+{
+  "app": {
+    "[project]/src/app/play/[code]/puzzle/[puzzleId]/page": [
+      "static/media/Geist_Variable-s.p.781b491f.woff2"
+    ],
+    "[project]/src/app/admin/page": [
+      "static/media/Geist_Variable-s.p.781b491f.woff2"
+    ],
+    "[project]/src/app/admin/assets/page": [
+      "static/media/Geist_Variable-s.p.781b491f.woff2"
+    ],
+    "[project]/src/app/admin/games/page": [
+      "static/media/Geist_Variable-s.p.781b491f.woff2"
+    ],
+    "[project]/src/app/admin/games/[id]/page": [
+      "static/media/Geist_Variable-s.p.781b491f.woff2"
+    ],
+    "[project]/src/app/admin/bookings/page": [
+      "static/media/Geist_Variable-s.p.781b491f.woff2"
+    ],
+    "[project]/src/app/admin/bookings/[code]/page": [
+      "static/media/Geist_Variable-s.p.781b491f.woff2"
+    ],
+    "[project]/src/app/admin/teams/page": [
+      "static/media/Geist_Variable-s.p.781b491f.woff2"
+    ],
+    "[project]/src/app/admin/teams/[teamId]/page": [
+      "static/media/Geist_Variable-s.p.781b491f.woff2"
+    ],
+    "[project]/src/app/page": [
+      "static/media/Geist_Variable-s.p.781b491f.woff2"
+    ],
+    "[project]/src/app/play/[code]/info/page": [
+      "static/media/Geist_Variable-s.p.781b491f.woff2"
+    ]
+  },
+  "appUsingSizeAdjust": true,
+  "pages": {},
+  "pagesUsingSizeAdjust": false
+}

@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file://G%3A/_dev/hidden_path/arg-game/src/app/play/layout.tsx"],"sourcesContent":["import { type ReactNode } from \"react\";\r\n\r\nexport default function PlayerLayout({ children }: { children: ReactNode }) {\r\n    return (\r\n        <div className=\"min-h-screen\">\r\n            <header className=\"bg-slate-900 text-white p-4 border-b border-slate-800\">\r\n                <div className=\"container mx-auto\">\r\n                    <h1 className=\"text-2xl font-bold\">ARG Game</h1>\r\n                </div>\r\n            </header>\r\n            <main className=\"container mx-auto p-4\">\r\n                {children}\r\n            </main>\r\n        </div>\r\n    );\r\n} "],"names":[],"mappings":";;;;;AAEe,SAAS,aAAa,EAAE,QAAQ,EAA2B;IACtE,qBACI,8OAAC;QAAI,WAAU;;0BACX,8OAAC;gBAAO,WAAU;0BACd,cAAA,8OAAC;oBAAI,WAAU;8BACX,cAAA,8OAAC;wBAAG,WAAU;kCAAqB;;;;;;;;;;;;;;;;0BAG3C,8OAAC;gBAAK,WAAU;0BACX;;;;;;;;;;;;AAIjB"}},
+    {"offset": {"line": 53, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}

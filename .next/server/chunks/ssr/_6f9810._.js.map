@@ -1,0 +1,9 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file://G%3A/_dev/hidden_path/arg-game/src/app/play/%5Bcode%5D/page.tsx"],"sourcesContent":["import { redirect } from \"next/navigation\";\r\n\r\ninterface Props {\r\n    params: Promise<{\r\n        code: string;\r\n    }>;\r\n}\r\n\r\nexport default async function PlayRedirect({ params }: Props) {\r\n    const { code } = await params;\r\n    redirect(`/play/${code}/info`);\r\n} "],"names":[],"mappings":";;;AAAA;AAAA;;AAQe,eAAe,aAAa,EAAE,MAAM,EAAS;IACxD,MAAM,EAAE,IAAI,EAAE,GAAG,MAAM;IACvB,CAAA,GAAA,qLAAA,CAAA,WAAQ,AAAD,EAAE,CAAC,MAAM,EAAE,KAAK,KAAK,CAAC;AACjC"}},
+    {"offset": {"line": 17, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}},
+    {"offset": {"line": 29, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":""}},
+    {"offset": {"line": 30, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}

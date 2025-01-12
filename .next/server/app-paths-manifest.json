@@ -1,0 +1,23 @@
+{
+  "/play/[code]/puzzle/[puzzleId]/page": "app/play/[code]/puzzle/[puzzleId]/page.js",
+  "/api/bookings/[code]/route": "app/api/bookings/[code]/route.js",
+  "/admin/page": "app/admin/page.js",
+  "/admin/assets/page": "app/admin/assets/page.js",
+  "/api/assets/route": "app/api/assets/route.js",
+  "/api/assets/upload/route": "app/api/assets/upload/route.js",
+  "/admin/games/page": "app/admin/games/page.js",
+  "/admin/games/[id]/page": "app/admin/games/[id]/page.js",
+  "/admin/bookings/page": "app/admin/bookings/page.js",
+  "/api/bookings/route": "app/api/bookings/route.js",
+  "/admin/bookings/[code]/page": "app/admin/bookings/[code]/page.js",
+  "/api/games/route": "app/api/games/route.js",
+  "/api/teams/route": "app/api/teams/route.js",
+  "/admin/teams/page": "app/admin/teams/page.js",
+  "/admin/teams/[teamId]/page": "app/admin/teams/[teamId]/page.js",
+  "/api/teams/[teamId]/route": "app/api/teams/[teamId]/route.js",
+  "/page": "app/page.js",
+  "/api/login/route": "app/api/login/route.js",
+  "/play/[code]/info/page": "app/play/[code]/info/page.js",
+  "/api/bookings/[code]/answer/route": "app/api/bookings/[code]/answer/route.js",
+  "/api/bookings/[code]/reset/route": "app/api/bookings/[code]/reset/route.js"
+}

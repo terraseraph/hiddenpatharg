@@ -1,0 +1,16 @@
+{
+  "node": {
+    "409aa10331690fd8500fe89fefd92eaa1cd94cae25": {
+      "workers": {
+        "app/admin/games/new/page": {
+          "moduleId": "[project]/.next-internal/server/app/admin/games/new/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/app/admin/games/new/page.tsx [app-rsc] (ecmascript)\" } [app-rsc] (ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/admin/games/new/page": "rsc"
+      }
+    }
+  },
+  "edge": {}
+}

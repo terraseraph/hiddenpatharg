@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 15, "column": 0}, "map": {"version":3,"sources":["file://G%3A/_dev/hidden_path/arg-game/src/components/theme-provider.tsx"],"sourcesContent":["\"use client\";\r\n\r\nimport * as React from \"react\";\r\nimport { ThemeProvider as NextThemesProvider } from \"next-themes\";\r\nimport { type ThemeProviderProps } from \"next-themes/dist/types\";\r\n\r\nexport function ThemeProvider({ children, ...props }: ThemeProviderProps) {\r\n    return <NextThemesProvider {...props}>{children}</NextThemesProvider>;\r\n} "],"names":[],"mappings":";;;;AAGA;AAHA;;;AAMO,SAAS,cAAc,EAAE,QAAQ,EAAE,GAAG,OAA2B;IACpE,qBAAO,8OAAC,gJAAA,CAAA,gBAAkB;QAAE,GAAG,KAAK;kBAAG;;;;;;AAC3C"}},
+    {"offset": {"line": 33, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}

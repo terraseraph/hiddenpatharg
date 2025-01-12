@@ -1,0 +1,49 @@
+{
+  "node": {
+    "60191648ec3607d53ef40359fc3f06a23321a99f27": {
+      "workers": {
+        "app/admin/games/[id]/page": {
+          "moduleId": "[project]/.next-internal/server/app/admin/games/[id]/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/app/admin/games/[id]/page.tsx [app-rsc] (ecmascript)\" } [app-rsc] (ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/admin/games/[id]/page": "rsc"
+      }
+    },
+    "602441721eab0fdf502647f76ca999ef4d0d0cbbec": {
+      "workers": {
+        "app/admin/games/[id]/page": {
+          "moduleId": "[project]/.next-internal/server/app/admin/games/[id]/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/app/admin/games/[id]/page.tsx [app-rsc] (ecmascript)\" } [app-rsc] (ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/admin/games/[id]/page": "rsc"
+      }
+    },
+    "60dafe20b795b0534cec168dc3bb6f742a4347bfa3": {
+      "workers": {
+        "app/admin/games/[id]/page": {
+          "moduleId": "[project]/.next-internal/server/app/admin/games/[id]/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/app/admin/games/[id]/page.tsx [app-rsc] (ecmascript)\" } [app-rsc] (ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/admin/games/[id]/page": "rsc"
+      }
+    },
+    "6091e9cb91a67e1cdb76c361ddc7b0b2622f61c771": {
+      "workers": {
+        "app/admin/games/[id]/page": {
+          "moduleId": "[project]/.next-internal/server/app/admin/games/[id]/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/app/admin/games/[id]/page.tsx [app-rsc] (ecmascript)\" } [app-rsc] (ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/admin/games/[id]/page": "rsc"
+      }
+    }
+  },
+  "edge": {}
+}
